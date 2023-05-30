@@ -156,4 +156,3 @@ print(f"**********\nstocks[selected_stock]\n**********\n{stocks[selected_stock]}
 #col2.write(get_recommendation(stocks[selected_stock], "What are this firm's key products and services?"))
 #col2.write(get_recommendation(stocks[selected_stock], "What are the new products and growth opportunities for this firm? What are its unique strengths?"))
 #col2.write(get_recommendation(stocks[selected_stock], "Who are this firms key competitors? What are the principal threats?"))
-##
